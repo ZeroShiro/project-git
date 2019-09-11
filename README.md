@@ -39,7 +39,7 @@ a git demo Project
 - git reset --(hard | mixed(默认) | soft)  HEAD~(num) or commit(id)
 
 ## 版本合并
-- git rebase -i HEAD~num 最近的x个commit
+- git rebase -i HEAD~num 最近提交x个commit
 
 ## 差异比较
 - git diff                         比较工作区和暂存区
