@@ -21,6 +21,7 @@ a git demo Project
 ## 创建分支
 - git branch             查看分支
 - git branch name        创建分支
+- git branch -d name     删除分支
 - git checkout           切换分支
 - git checkout -b name-1 创建并进入
 - git merge name         合并分支
