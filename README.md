@@ -6,7 +6,7 @@ a git demo Project
 - 找到 .ssh/id_rsa.pub 的公钥 添加到github
 
 ## 设置用户名和邮箱
-- git config --global user.email q1311588796@gmail.com
+- git config --global user.email 6@gmail.com
 - git config --global user.name ZeroShiro
 - git config -l  查看
 
